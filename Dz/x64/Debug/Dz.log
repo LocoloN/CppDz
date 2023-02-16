@@ -1,0 +1,7 @@
+﻿  Dz.cpp
+  MyArrayChild.cpp
+E:\Projects\cppDzProj\Dz\Dz\MyArrayChild.cpp(84,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MySortedArray.cpp
+E:\Projects\cppDzProj\Dz\Dz\MyArrayChild.cpp(84,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Dz.vcxproj -> E:\Projects\cppDzProj\Dz\x64\Debug\Dz.exe
