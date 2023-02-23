@@ -1,0 +1,5 @@
+﻿  Circle.cpp
+E:\Projects\cppDzProj\CppDz\Пр1\Dz1\Dz1\Circle.cpp(4,1): error C2011: 'Circle': 'class' type redefinition
+E:\Projects\cppDzProj\CppDz\Пр1\Dz1\Dz1\Circle.h(2,7): message : see declaration of 'Circle'
+  Dz1.cpp
+  Generating Code...
